@@ -6,7 +6,7 @@ This chrome-extension reverses the target and base branch upon clicking on the p
 
 ## Installation
 
-Simply install the extension directly from the Chrome Store:
+Simply install the extension directly from the Chrome Store: https://chrome.google.com/webstore/detail/bbnegdfkgopjcfbjhdghddebffjfghon
 
 ## Limitations
 
