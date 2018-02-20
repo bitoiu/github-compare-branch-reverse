@@ -10,8 +10,10 @@ Simply install the extension directly from the Chrome Store: https://chrome.goog
 
 ## Limitations
 
-There's a few things to take into considerations:
+There's a few things to take into consideration:
 
+* This currently only works on GitHub.com
+* It's not a lot of work making it work on GitHub Enterprise, so open an issue if you have that requirement.
 * The DOM on this page is very generic so the jQuery selections can be a bit fragile. If there are issues [open a new issue](https://github.com/bitoiu/github-compare-branch-reverse/issues/new).
 * This extension only works for branches in the same repository
 
