@@ -4,6 +4,7 @@ This chrome-extension reverses the target and base branch upon clicking on the p
 
 ![example](assets/screenshot.png)
 
+
 ## Installation
 
 Simply install the extension directly from the Chrome Store: https://chrome.google.com/webstore/detail/bbnegdfkgopjcfbjhdghddebffjfghon
